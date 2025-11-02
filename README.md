@@ -27,7 +27,7 @@ Whether it’s **Android, iOS, or Flutter**, I focus on crafting apps that look 
 * **Proven Experience:**
 
   * Developing mobile apps since **2016**, across industries and scales.
-  * Led and scaled apps like **ESPNCricInfo** and **Shaadi.com**, improving architecture, performance, and delivery efficiency.
+  * Led and scaled apps like [**ESPNCricInfo**](https://www.espncricinfo.com/) and [**Shaadi.com**](https://www.shaadi.com/), improving architecture, performance, and delivery efficiency.
   * Managed app teams — hiring, mentoring, and ensuring smooth project transitions.
 
 * **End-to-End Expertise:**
