@@ -50,7 +50,7 @@ Whether it’s **Android, iOS, or Flutter**, I focus on crafting apps that look 
 
 * Built one of the most popular cricket apps from a web-based product to native app platforms.
 * Created native apps from scratch. Hired and built inhouse dev team.
-* Lead the mobile team — planning features, improving velocity, and ensuring top-tier platform stability.
+* Lead the mobile team - planning features, improving velocity, and ensuring top-tier platform stability.
 * [App Store Link](https://apps.apple.com/us/app/espncricinfo-cricket-scores/id417408017)
   [Play Store Link](https://play.google.com/store/apps/details?id=com.july.cricinfo&hl=en_us)
 
