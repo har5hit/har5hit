@@ -48,7 +48,8 @@ Whether it’s **Android, iOS, or Flutter**, I focus on crafting apps that look 
 **Role:** Mobile Apps Lead
 **Tech:** Kotlin Multiplatform, Flutter, Android, iOS
 
-* Built one of the most popular cricket apps from a web-based product to native platforms.
+* Built one of the most popular cricket apps from a web-based product to native app platforms.
+* Created native apps from scratch. Hired and built inhouse dev team.
 * Lead the mobile team — planning features, improving velocity, and ensuring top-tier platform stability.
 * [App Store Link](https://apps.apple.com/us/app/espncricinfo-cricket-scores/id417408017)
   [Play Store Link](https://play.google.com/store/apps/details?id=com.july.cricinfo&hl=en_us)
@@ -60,8 +61,10 @@ Whether it’s **Android, iOS, or Flutter**, I focus on crafting apps that look 
 **Role:** Android App Lead
 **Tech:** Kotlin, Jetpack, Firebase
 
-* Spearheaded Android development for the world’s #1 matchmaking platform.
+* Developed Android app for the world’s #1 matchmaking platform.
 * Enhanced performance, user engagement, and architecture scalability.
+* Implemented and trained the team on KMP for improved velocity across Android and iOS teams by high reuse and consistent code.
+* Started Test-driven development to cover most edge cases and maintain regression suite to avoid most bugs.
 * [App Store Link](https://apps.apple.com/us/app/shaadi-com-matrimony-app/id480093204)
   [Play Store Link](https://play.google.com/store/apps/details?id=com.shaadi.android)
 
