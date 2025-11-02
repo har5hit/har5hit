@@ -75,7 +75,7 @@ Whether it’s **Android, iOS, or Flutter**, I focus on crafting apps that look 
 Have an app idea or need expert help to upgrade your existing one?
 Let’s connect and turn it into a product users will love.
 
-📧 **Email:** [hshetty.biz@gmail.com](hshetty.biz@gmail.com) 
+📧 **Email:** [hshetty.biz@gmail.com](mailto:hshetty.biz@gmail.com) 
 
 🌐 **Portfolio / Resume:** [har5hit](https://github.com/har5hit) 
 
