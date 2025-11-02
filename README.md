@@ -31,7 +31,7 @@ Whether it’s **Android, iOS, or Flutter**, I focus on crafting apps that look 
   * Managed app teams — hiring, mentoring, and ensuring smooth project transitions.
 
 * **End-to-End Expertise:**
-  From concept to store launch — I handle architecture, development, CI/CD, and store submissions.
+  From concept to store launch — I handle requirements, consultations, architecture, development, automations (Tests, CI-CD), and store submissions.
 
 * **Clear Communication:**
   I keep projects transparent and explain tech decisions in simple, actionable terms.
