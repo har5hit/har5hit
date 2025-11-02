@@ -41,6 +41,13 @@ Whether it’s **Android, iOS, or Flutter**, I focus on crafting apps that look 
 
 ---
 
+### 🏆 **Featured**
+[**Kotlin Multiplatform Mobile Content Creators Recognition Campaign**](https://x.com/kotlin/status/1567869403357650946)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today, we would like to share three pieces of content:<br><br>📝 In his article, <a href="https://twitter.com/har5hit?ref_src=twsrc%5Etfw">@har5hit</a> shares a great collection of tips and tricks which his team uses to optimize their development process with Kotlin Multiplatform Mobile. <a href="https://t.co/BvqrGHiQZ0">https://t.co/BvqrGHiQZ0</a></p>&mdash; Kotlin by JetBrains (@kotlin) <a href="https://twitter.com/kotlin/status/1567869403357650946?ref_src=twsrc%5Etfw">September 8, 2022</a></blockquote>
+
+[![](https://androidweekly.net/issues/issue-528/badge)](https://androidweekly.net/issues/issue-528)
+
+
 ### 🏆 **Featured Projects**
 
 #### [**ESPNCricInfo (Android / iOS)**](https://www.espncricinfo.com/)
