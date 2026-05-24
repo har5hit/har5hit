@@ -2,7 +2,7 @@
 
 ### **Senior Mobile App Developer | Android • iOS • Flutter • Kotlin Multiplatform**
 
-I’m a passionate **mobile app developer with 9+ years of experience** helping businesses turn their ideas into reliable, high-performing mobile experiences.
+I’m a passionate **mobile app developer with 10 years of experience** helping businesses turn their ideas into reliable, high-performing mobile experiences.
 Whether it’s **Android, iOS, or Flutter**, I focus on crafting apps that look great, run smoothly, and scale effortlessly.
 
 ---
